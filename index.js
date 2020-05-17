@@ -3,7 +3,6 @@ const low = require("lowdb");
 const FileSync = require("lowdb/adapters/FileSync");
 const adapter = new FileSync("dex.json");
 const db = low(adapter);
-const coffee = require('coffee-script')
 
 const jimp = require('jimp')
 
