@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "descricao",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "download-file": "^0.1.5",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
