@@ -4,3 +4,8 @@ This script is intended to generate pokemon battle images (IMAGES ONLY), using n
 
 <img src="https://github.com/markyndev/pokemon-battleimage-gen/blob/master/examples/example1.png?raw=true">
 <img src="https://github.com/markyndev/pokemon-battleimage-gen/blob/master/examples/example2.png?raw=true">
+
+## 📖 Credits
+
+🖌 Sprites: [Pokemon Showdown](https://pokemonshowdown.com)
+📝 Development: [@markyndev](https://twitter.com/markyndev)
