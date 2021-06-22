@@ -8,4 +8,5 @@ This script is intended to generate pokemon battle images (IMAGES ONLY), using n
 ## 📖 Credits
 
 🖌 Sprites: [Pokemon Showdown](https://pokemonshowdown.com)
+<br>
 📝 Development: [@markyndev](https://twitter.com/markyndev)
